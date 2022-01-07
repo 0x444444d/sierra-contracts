@@ -1,7 +1,7 @@
 # Contracts
 
 ## Multisig Addreess
-
+0xF2017Eb301ce7d992FA5C79D820Ce1Eaf024d835
 
 ## Presale Contract
 0xB247f1DefEDe5fF0eEfD015583402AB90BdcCBe4
