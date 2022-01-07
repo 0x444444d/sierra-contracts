@@ -24,11 +24,14 @@
 ## Staking Warmup Contract
 0x198025471cf7b1aC130dC23f7D8fBb26d6988A8b
 
-## OlympusBondingCalculator
+## Sierra Bond Calculator
 0xc1F64E79513E2309B8b87dE197C787Fb3F0F7e5f
 
 ## Sierra Bond Contract (MiM Principal)
 0x8A3ADa12E44f40DEB19dF2db2e11935289Ccb116
+
+## Sierra Bond Contract (SRA-MIM LP Principal)
+0x24De583bC83318f3586628225a87BB613e4c3284
 
 ## Sierra Distributor Contract
 0xfE3b7B145028153004FE2076D812f1713A8f705b
